@@ -1,2 +1,2 @@
-pip install requirements
-pip install flask
+pip freeze > requirements.txt
+
